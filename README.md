@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFFFFF,200:fcf4d4&height=250&section=header&text=I'm%20Joy&desc=👋%20Great%20to%20see%20you,&fontSize=50&animation=twinkling&fontColor=343434&fontAlign=80&descAlign=75&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFFFFF,200:fcf4d4&height=250&section=header&text=I'm%20Joy&desc=👋%20Great%20to%20see%20you,&fontSize=50&animation=twinkling&fontColor=343434&fontAlign=80&descAlign=72&descAlignY=35)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoyhyonie&count_bg=%23343434&title_bg=%23343434&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@joyhyonie" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"/></a>
@@ -61,7 +61,7 @@
   <!-- Latest posting -->
   <h3>✏ LATEST POSTING </h3>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyhyonie&color=dark)](https://github.com/joyhyonie/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyhyonie&color=dark)](https://velog.io/@joyhyonie)
 
 </div>
 
