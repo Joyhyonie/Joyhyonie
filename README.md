@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
   <br><br>
-  <img src="https://img.shields.io/badge/STS 4-6DB33F?style=flat-square&logo=&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;
@@ -47,14 +47,9 @@
 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>&nbsp;
-  <br><br>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon&logoColor=white"/>&nbsp;
 
-  <!-- Latest posting -->
-  <h3>✏ LATEST POSTING </h3>
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joyhyonie&color=dark)](https://velog.io/@joyhyonie)
+  <br><br>
 
 </div>
 
